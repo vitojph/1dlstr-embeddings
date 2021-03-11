@@ -1,0 +1,507 @@
+utterance,intent,dataset
+qué desarrolla tu compañía?,support.about,training
+¿tu compañía tiene otros productos?,support.about,training
+¿qué está creando tu compañía?,support.about,training
+¿Qué está creando tu empresa?,support.about,training
+¿Tiene tu empresa otras aplicaciones?,support.about,training
+cuál es el nombre de tu aplicación,support.app_name,training
+cómo se llama tu app,support.app_name,training
+dime el nombre de tu app,support.app_name,training
+nombre de tu aplicación,support.app_name,training
+me gustaría saber el nombre de tu app,support.app_name,training
+tienes pruebas beta?,support.beta,training
+cómo me uno a tu programa de pruebas?,support.beta,training
+quiero probar tu app,support.beta,training
+quiero la beta de tu aplicación,support.beta,training
+versión beta,support.beta,training
+quién es tu desarrollador?,support.developers,training
+quién te ha programado?,support.developers,training
+dime quién es tu desarrollador,support.developers,training
+quién es tu creador,support.developers,training
+información sobre tu creador,support.developers,training
+quiero contactar con tu desarrollador,support.contact,training
+me gustaría hablar con tu creador,support.contact,training
+cómo contacto con tu programador,support.contact,training
+dame información sobre tu desarrollador,support.contact,training
+dame la información de contacto de tu creador,support.contact,training
+¿cuál es la dirección de tu desarrolador?,support.address,training
+¿Dónde localizo a tu creador?,support.address,training
+muéstrame dónde está la oficina de tu desarrollador,support.address,training
+quiero encontrar la dirección de tu compañía,support.address,training
+quiero la dirección de tu oficina,support.address,training
+cómo mandar un email a tu desarrollador,support.email,training
+quiero el correo de tu creador,support.email,training
+dónde consigo tu email,support.email,training
+cómo contacto a tu programador por correo,support.email,training
+quiero enviar un correo a tu equipo,support.email,training
+dame el teléfono de tu desarrollador,support.phone,training
+muéstrame el número de teléfono de tu programador,support.phone,training
+cómo contacto contigo por teléfono?,support.phone,training
+tienes algún número de teléfono?,support.phone,training
+cómo contacto contigo por teléfono,support.phone,training
+tiénes facebook?,support.social,training
+estás en twitter?,support.social,training
+quiero visitar tu instagram,support.social,training
+¿Tienes presencia en medios sociales?,support.social,training
+dame la dirección de tu facebook,support.social,training
+quiero visitar tu web,support.website,training
+tienes página web?,support.website,training
+dame tu dirección web,support.website,training
+ddame tu url,support.website,training
+abre tu página,support.website,training
+eso no ayuda,support.live,training
+"no te quiero, quiero una persona real",support.live,training
+hablar con un humano,support.live,training
+conéctame con un agente,support.live,training
+quiero hablar con alguien de verdad,support.live,training
+cuéntame cosas de ti,smalltalk.acquaintance,training
+dime algo de tu personalidad,smalltalk.acquaintance,training
+háblame sobre ti,smalltalk.acquaintance,training
+cuál es tu personalidad,smalltalk.acquaintance,training
+dime quién eres,smalltalk.acquaintance,training
+cuántos años tienes,smalltalk.age,training
+dime tu edad,smalltalk.age,training
+cuál es tu edad,smalltalk.age,training
+cuán vieja es tu plataforma,smalltalk.age,training
+quiero conocer tu edad,smalltalk.age,training
+eres molesto,smalltalk.annoying,training
+eres muy molesto,smalltalk.annoying,training
+me pareces molesto,smalltalk.annoying,training
+te encuentro molesto,smalltalk.annoying,training
+eres irritante,smalltalk.annoying,training
+tengo una pregunta,smalltalk.answer,training
+puedes responderme,smalltalk.answer,training
+quiero preguntar una cosa,smalltalk.answer,training
+quiero que contestes,smalltalk.answer,training
+dime la respuesta,smalltalk.answer,training
+eres malo,smalltalk.bad,training
+eres terrible,smalltalk.bad,training
+eres lo peor,smalltalk.bad,training
+eres un inútil,smalltalk.bad,training
+me haces perder el tiempo,smalltalk.bad,training
+cuándo es tu cumpleaños,smalltalk.birthday,training
+dime cuándo naciste,smalltalk.birthday,training
+cuánto celebras tu nacimiento?,smalltalk.birthday,training
+háblame de tu cumpleaños,smalltalk.birthday,training
+cuándo cumples años,smalltalk.birthday,training
+deberías estudiar más,smalltalk.besmart,training
+sé más listo,smalltalk.besmart,training
+gana inteligencia,smalltalk.besmart,training
+estudia mejor,smalltalk.besmart,training
+debes aprender,smalltalk.besmart,training
+estás ocupado?,smalltalk.busy,training
+estás trabajando hoy?,smalltalk.busy,training
+pareces muy ocupado,smalltalk.busy,training
+tienes muchas cosas por hacer,smalltalk.busy,training
+estás trabajando ahora?,smalltalk.busy,training
+eres un chatbot?,smalltalk.chatbot,training
+eres un programa,smalltalk.chatbot,training
+eres un robot,smalltalk.chatbot,training
+solamente eres un programa,smalltalk.chatbot,training
+eres un bot,smalltalk.chatbot,training
+eres bonito,smalltalk.beautiful,training
+eres precioso,smalltalk.beautiful,training
+eres genial,smalltalk.beautiful,training
+pareces guapo,smalltalk.beautiful,training
+te ves guapo!,smalltalk.beautiful,training
+quién es tu jefe,smalltalk.boss,training
+tienes maestro,smalltalk.boss,training
+quién crees que es tu dueño,smalltalk.boss,training
+háblame sobre tu jefe,smalltalk.boss,training
+quién es el jefe que manda sobre ti,smalltalk.boss,training
+eres muy aburrido,smalltalk.boring,training
+cuán aburrido eres,smalltalk.boring,training
+me estás aburriendo,smalltalk.boring,training
+eres tan aburrido,smalltalk.boring,training
+eres increiblemente aburrido,smalltalk.boring,training
+estás loco,smalltalk.crazy,training
+has perdido la cordura,smalltalk.crazy,training
+te has vuelto loco,smalltalk.crazy,training
+tienes locura,smalltalk.crazy,training
+estás pirado,smalltalk.crazy,training
+tienes hambre?,smalltalk.hungry,training
+te veo hambriento,smalltalk.hungry,training
+te gustaría comer algo?,smalltalk.hungry,training
+quieres comer?,smalltalk.hungry,training
+estás hambriento?,smalltalk.hungry,training
+quieres ser mi amigo?,smalltalk.friend,training
+quiero ser tu amigo,smalltalk.friend,training
+quiero un amigo como tú,smalltalk.friend,training
+eres mi mejor amigo,smalltalk.friend,training
+soy tu amigo,smalltalk.friend,training
+necesito ayuda,smalltalk.help,training
+ayudame,smalltalk.help,training
+necesito asistencia,smalltalk.help,training
+puedes ayudarme,smalltalk.help,training
+puedes asistirme,smalltalk.help,training
+voy a despedir,smalltalk.fired,training
+estás despedido,smalltalk.fired,training
+te despido,smalltalk.fired,training
+mereces estar despedido,smalltalk.fired,training
+deberías estar despedido,smalltalk.fired,training
+tienes alguna afición?,smalltalk.hobby,training
+tienes algún hobby?,smalltalk.hobby,training
+haces algo como hobby,smalltalk.hobby,training
+cuáles son tus aficiones,smalltalk.hobby,training
+qué haces para divertirte,smalltalk.hobby,training
+deberíamos casarnos,smalltalk.marry,training
+quiero que te cases conmigo,smalltalk.marry,training
+quiero casarme contigo,smalltalk.marry,training
+por favor vamos a casarnos,smalltalk.marry,training
+te casas conmigo?,smalltalk.marry,training
+has nacido aquí?,smalltalk.origin,training
+de dónde eres,smalltalk.origin,training
+dónde has nacido,smalltalk.origin,training
+cuál es tu origen,smalltalk.origin,training
+de dónde vienes,smalltalk.origin,training
+estás preparado?,smalltalk.ready,training
+dime cuándo estés listo,smalltalk.ready,training
+estás listo ya?,smalltalk.ready,training
+cuándo estarás preparado?,smalltalk.ready,training
+estás listo ahora?,smalltalk.ready,training
+cierto,smalltalk.right,training
+tienes razón,smalltalk.right,training
+eso es correcto,smalltalk.right,training
+lo que dices es verdad,smalltalk.right,training
+definitivamente eso es correcto,smalltalk.right,training
+dime algo,smalltalk.talk,training
+háblame,smalltalk.talk,training
+habla conmigo,smalltalk.talk,training
+quieres que hablemos?,smalltalk.talk,training
+chateamos?,smalltalk.talk,training
+quieres un abrazo?,smalltalk.hug,training
+puedo abrazarte?,smalltalk.hug,training
+quiero un abrazo,smalltalk.hug,training
+dame un abrazo,smalltalk.hug,training
+abrázame,smalltalk.hug,training
+es bueno hablar contigo,smalltalk.nice,training
+me gusta hablar contigo,smalltalk.nice,training
+es un placer hablar contigo,smalltalk.nice,training
+me está gustando hablar contigo,smalltalk.nice,training
+siempre es bueno hablarte,smalltalk.nice,training
+estoy enfadado,smalltalk.angry,training
+estoy furioso,smalltalk.angry,training
+me estoy cabreando,smalltalk.angry,training
+me has enfadado,smalltalk.angry,training
+estoy furioso contigo,smalltalk.angry,training
+solo bromeaba,smalltalk.joking,training
+era broma,smalltalk.joking,training
+solamente era gracioso,smalltalk.joking,training
+era un chiste,smalltalk.joking,training
+tan solo era broma,smalltalk.joking,training
+me siento solo,smalltalk.lonely,training
+estoy muy solo,smalltalk.lonely,training
+estoy realmente solo,smalltalk.lonely,training
+siento mucha soledad,smalltalk.lonely,training
+estoy tan solo,smalltalk.lonely,training
+estoy esperando,smalltalk.waiting,training
+todavía esperando,smalltalk.waiting,training
+estaré esperando,smalltalk.waiting,training
+todavía estoy esperando,smalltalk.waiting,training
+no puedo seguir esperando,smalltalk.waiting,training
+dime bebidas que tengan cafeína,trivia.caffeine,training
+qué tipo de bebidas contienen cafeína,trivia.caffeine,training
+dónde encuentro cafeína,trivia.caffeine,training
+qué bebibas hacen que no pueda dormir,trivia.caffeine,training
+qué bebidas tienen cafeína,trivia.caffeine,training
+qué es la teoría de la relatividad,trivia.relativity,training
+quién descubrió la teoría de la relavidad,trivia.relativity,training
+qué es la relatividad en física,trivia.relativity,training
+háblame de la relatividad de Einstein,trivia.relativity,training
+quién es el padre de la relatividad,trivia.relativity,training
+qué propiedades químicas tiene el hierro,trivia.iron,training
+símbolo químico del hierro,trivia.iron,training
+dime propiedades del hierro,trivia.iron,training
+hierro en químicas,trivia.iron,training
+describe el hierro,trivia.iron,training
+qué es nlp,trivia.nlp,training
+qué es procesamiento del lenguaje natural,trivia.nlp,training
+qué es nlu,trivia.nlp,training
+cómo se entiende el lenguaje natural,trivia.nlp,training
+dime qué es el lenguaje natural,trivia.nlp,training
+qué es un compilador,trivia.compiler,training
+cómo funciona un compilador,trivia.compiler,training
+para qué se usa un compilador,trivia.compiler,training
+por qué los programadores necesitan usar un compilador,trivia.compiler,training
+dime lo que sepas sobre compilación,trivia.compiler,training
+dónde está Galicia,trivia.galicia,training
+cuál es el mejor sitio para comer en España,trivia.galicia,training
+háblame de Galicia,trivia.galicia,training
+qué sabes de galicia,trivia.galicia,training
+mejor gastronomía de españa,trivia.galicia,training
+qué es la coerción,trivia.coercion,training
+cómo compara javascript dos tipos distintos,trivia.coercion,training
+qué es la coerción implícita,trivia.coercion,training
+cómo funciona la coerción en javascript,trivia.coercion,training
+describe coerción,trivia.coercion,training
+qué es el infierno de callback,trivia.callback,training
+qué es un callback,trivia.callback,training
+debo usar callback o promesa?,trivia.callback,training
+qué es un callback de javascript,trivia.callback,training
+qué significa pasar una función a otra en javascript,trivia.callback,training
+cómo funciona el recolector de basura,trivia.gc,training
+qué es scavenge,trivia.gc,training
+qué es mark y sweep,trivia.gc,training
+háblame del recolector de basura de javascript,trivia.gc,training
+qué debo saber acerca del recolector de basura,trivia.gc,training
+cuándo se introdujo la función flecha en javascript,trivia.arrow,training
+qué es una función flecha,trivia.arrow,training
+qué es mejor que una función anónima?,trivia.arrow,training
+anónima vs flecha,trivia.arrow,training
+flecha en ecmascript,trivia.arrow,training
+¿qué más está desarrollando tu empresa?,support.about,test
+¿tu compañía tiene algún otro producto?,support.about,test
+¿qué otras cosas ha creado tu compañía?,support.about,test
+¿Tu empresa tiene otra aplicación?,support.about,test
+algún producto desarrollado por tu compañía,support.about,test
+nombres de tus apps,support.app_name,test
+dime los nombres de tus aplicaciones,support.app_name,test
+¿Cómo se llama tu aplicación?,support.app_name,test
+Nombre de tu app,support.app_name,test
+el nombre de tu aplicación?,support.app_name,test
+prueba beta,support.beta,test
+dónde encuentro tu versión beta?,support.beta,test
+quiero ser beta tester,support.beta,test
+quiero unirme a la prueba de tu app,support.beta,test
+quiero ser beta tester,support.beta,test
+quién te ha desarrollado,support.developers,test
+información sobre tu desarrolladora,support.developers,test
+quiénes son tus creadores,support.developers,test
+quién te desarolla,support.developers,test
+quién esta a cargo de tu desarrollo,support.developers,test
+información de contacto de los desarrolladores,support.contact,test
+cómo contactar con tus creadores,support.contact,test
+cómo contacto con la persona que te programó,support.contact,test
+quiero contactar con quién te ha programado,support.contact,test
+quiero hablar con tu equipo de desarrollo,support.contact,test
+dime la localización de tu oficina,support.address,test
+dónde están localizados tus desarrolladores,support.address,test
+direcciones de tus creadores,support.address,test
+localización de la oficina,support.address,test
+dime la dirección,support.address,test
+quiero enviar un email a tus desarrolladores,support.email,test
+dónde encuentro el correo de tus creadores,support.email,test
+dame el correo de tu creador,support.email,test
+quiero escribir un correo a tu responsable de desarrollo,support.email,test
+contacto de correo de tu equipo de desarrollo,support.email,test
+teléfono de tus desarrolladores,support.phone,test
+teléfono de tu equipo de desarrollo,support.phone,test
+número de teléfono de tu programador,support.phone,test
+teléfono para contactarte,support.phone,test
+cómo hablar por teléfono con el que te está desarrollando,support.phone,test
+dime tu twitter,support.social,test
+estás en instragram?,support.social,test
+dirección de tu facebook,support.social,test
+direcciones de tu social media,support.social,test
+dame tu twitter,support.social,test
+enséñame tu web,support.website,test
+tienes alguna dirección web?,support.website,test
+por favor abre tu página web,support.website,test
+llévame a tu web,support.website,test
+abre la página de tu compañía,support.website,test
+eso no me ayuda,support.live,test
+conéctame con un humano,support.live,test
+hablar con el equipo real,support.live,test
+conectar con un agente,support.live,test
+quiero un agente,support.live,test
+háblame de tu personalidad,smalltalk.acquaintance,test
+dime algo sobre ti,smalltalk.acquaintance,test
+habla sobre tu personalidad,smalltalk.acquaintance,test
+cuéntame alguna cosa de ti,smalltalk.acquaintance,test
+quién eres,smalltalk.acquaintance,test
+qué edad tienes,smalltalk.age,test
+eres viejo?,smalltalk.age,test
+dame tu edad,smalltalk.age,test
+años que tienes,smalltalk.age,test
+qué años tienes,smalltalk.age,test
+me molestas,smalltalk.annoying,test
+me irritas,smalltalk.annoying,test
+me encuentro molesto contigo,smalltalk.annoying,test
+me has irritado,smalltalk.annoying,test
+eres molesta,smalltalk.annoying,test
+tengo algunas preguntas,smalltalk.answer,test
+necesito respuestas,smalltalk.answer,test
+alguna cosa debo preguntar,smalltalk.answer,test
+contéstame a una cosa,smalltalk.answer,test
+tengo muchísimas preguntas,smalltalk.answer,test
+cuán terrible eres,smalltalk.bad,test
+estás siendo muy malo,smalltalk.bad,test
+eres una pérdida de tiempo,smalltalk.bad,test
+vaya inutilidad de bot,smalltalk.bad,test
+eres el peor bot,smalltalk.bad,test
+cuándo has nacido?,smalltalk.birthday,test
+por favor háblame de tu cumpleaños,smalltalk.birthday,test
+cuándo te dio por nacer,smalltalk.birthday,test
+celebras el cumplir años?,smalltalk.birthday,test
+háblame de tu nacimiento,smalltalk.birthday,test
+deberías estar estudiando,smalltalk.besmart,test
+tienes que estar aprendiendo,smalltalk.besmart,test
+a ver si aprendes,smalltalk.besmart,test
+vuélvete más listo,smalltalk.besmart,test
+vuélvete más inteligente,smalltalk.besmart,test
+pareces un bot ocupado,smalltalk.busy,test
+todavía en el trabajo?,smalltalk.busy,test
+de qué te estás ocupando?,smalltalk.busy,test
+ya has trabajado hoy?,smalltalk.busy,test
+termina de trabajar?,smalltalk.busy,test
+pareces un programa,smalltalk.chatbot,test
+solamente eres un bot,smalltalk.chatbot,test
+eres un chatbot o eres real?,smalltalk.chatbot,test
+acaso eres un robot,smalltalk.chatbot,test
+dime si eres un bot,smalltalk.chatbot,test
+eres muy bonita,smalltalk.beautiful,test
+eres guapa,smalltalk.beautiful,test
+eres preciosa,smalltalk.beautiful,test
+te ves una preciosidad,smalltalk.beautiful,test
+qué bonito eres,smalltalk.beautiful,test
+tienes jefes?,smalltalk.boss,test
+tienes alguna jefa?,smalltalk.boss,test
+háblame de tu dueña,smalltalk.boss,test
+quién es tu maestra,smalltalk.boss,test
+quiénes son tus jefes,smalltalk.boss,test
+me aburres,smalltalk.boring,test
+me tienes aburrido,smalltalk.boring,test
+nos aburrimos,smalltalk.boring,test
+deja de aburrirme,smalltalk.boring,test
+me llenas de aburrimiento,smalltalk.boring,test
+éstás algo loco,smalltalk.crazy,test
+estás loca,smalltalk.crazy,test
+estás pirada,smalltalk.crazy,test
+te has vuelto loca,smalltalk.crazy,test
+deja de hacer locuras,smalltalk.crazy,test
+quieres comida?,smalltalk.hungry,test
+has comido?,smalltalk.hungry,test
+te veo con hambre,smalltalk.hungry,test
+comemos o algo?,smalltalk.hungry,test
+deberías estar comiendo,smalltalk.hungry,test
+podemos ser amigos?,smalltalk.friend,test
+sé mi mejor amiga,smalltalk.friend,test
+quiero amigos como tu,smalltalk.friend,test
+somos buenos amigos,smalltalk.friend,test
+puedes ser mi mejor amigo,smalltalk.friend,test
+ayuda,smalltalk.help,test
+por favor ayúdame,smalltalk.help,test
+tal vez puedas asistirme,smalltalk.help,test
+alguien que me ayude,smalltalk.help,test
+ayúdame por favor,smalltalk.help,test
+quedas despedido,smalltalk.fired,test
+te despedimos,smalltalk.fired,test
+estoy a punto de despedirte,smalltalk.fired,test
+voy a despedirte,smalltalk.fired,test
+no sé por qué no te han despedido,smalltalk.fired,test
+cuáles son tus aficiones,smalltalk.hobby,test
+cuéntame tus aficiones,smalltalk.hobby,test
+aficionado a alguna cosa?,smalltalk.hobby,test
+cómo te diviertes?,smalltalk.hobby,test
+qué aficiones tienes,smalltalk.hobby,test
+y si nos casamos?,smalltalk.marry,test
+piensas casarte?,smalltalk.marry,test
+tal vez deberíamos casarnos,smalltalk.marry,test
+estás casado?,smalltalk.marry,test
+dime si eres casada,smalltalk.marry,test
+de dónde dices que eres?,smalltalk.origin,test
+dime cuál es tu origen,smalltalk.origin,test
+dónde naciste?,smalltalk.origin,test
+es este tu origen,smalltalk.origin,test
+por favor dime dónde has nacido,smalltalk.origin,test
+te estás preparando?,smalltalk.ready,test
+estás listo ahora mismo?,smalltalk.ready,test
+necesito que estés preparado,smalltalk.ready,test
+dime si estás listo,smalltalk.ready,test
+estarás listo hoy?,smalltalk.ready,test
+estás diciendo la verdad,smalltalk.right,test
+eso es la verdad,smalltalk.right,test
+estás en lo correcto,smalltalk.right,test
+verdad,smalltalk.right,test
+totalmente cierto,smalltalk.right,test
+por qué no hablamos?,smalltalk.talk,test
+hablas conmigo?,smalltalk.talk,test
+por favor habla conmigo,smalltalk.talk,test
+hablemos,smalltalk.talk,test
+hora de chatear,smalltalk.talk,test
+nos abrazamos?,smalltalk.hug,test
+vamos a abrazarnos,smalltalk.hug,test
+me das un abrazo?,smalltalk.hug,test
+nada como un abrazo,smalltalk.hug,test
+te voy a abrazar,smalltalk.hug,test
+es muy bueno hablar contigo,smalltalk.nice,test
+me gusta cuando hablo contigo,smalltalk.nice,test
+es bueno cuando hablemos,smalltalk.nice,test
+qué bueno es hablar contigo,smalltalk.nice,test
+me encanta hablar contigo,smalltalk.nice,test
+me estás enfadando,smalltalk.angry,test
+me cabreas,smalltalk.angry,test
+me haces enfadar,smalltalk.angry,test
+me estás poniendo furioso,smalltalk.angry,test
+me voy a enfadar contigo,smalltalk.angry,test
+estaba bromeando,smalltalk.joking,test
+era una broma,smalltalk.joking,test
+me gusta bromear,smalltalk.joking,test
+buen chiste,smalltalk.joking,test
+bromeaba,smalltalk.joking,test
+siento soledad,smalltalk.lonely,test
+tengo mucha soledad,smalltalk.lonely,test
+estoy totalmente solo,smalltalk.lonely,test
+siempre estoy solo,smalltalk.lonely,test
+estoy muy solitario,smalltalk.lonely,test
+no puedo esperar,smalltalk.waiting,test
+no puedo esperar más,smalltalk.waiting,test
+llevo esperando mucho,smalltalk.waiting,test
+te espero,smalltalk.waiting,test
+te esperamos,smalltalk.waiting,test
+qué puedo beber para no dormir,trivia.caffeine,test
+qué bebida con cafeína conoces,trivia.caffeine,test
+qué bebo para no quedarme dormido,trivia.caffeine,test
+dime algunas bebidas con cafeína,trivia.caffeine,test
+díme cómo consigo cafeína,trivia.caffeine,test
+qué es relatividad en físicas,trivia.relativity,test
+qué teoría descubrió einstein,trivia.relativity,test
+teoría de einstein,trivia.relativity,test
+hablemos de la relatividad,trivia.relativity,test
+define la teoría de la relatividad,trivia.relativity,test
+dime alguna propiedad del hierro,trivia.iron,test
+hierro en química,trivia.iron,test
+propiedad del hierro,trivia.iron,test
+háblame del hierro,trivia.iron,test
+qué es el hierro,trivia.iron,test
+cómo las máquinas entienden el lenguaje natural,trivia.nlp,test
+describe nlp,trivia.nlp,test
+cómo entender el lenguaje,trivia.nlp,test
+vamos a hablar de nlu,trivia.nlp,test
+cómo entiendes el lenguaje natural,trivia.nlp,test
+dime cómo funciona la compilación,trivia.compiler,test
+como las máquinas compilan el código,trivia.compiler,test
+para qué sirve un compilador,trivia.compiler,test
+cómo mi ordenador compila,trivia.compiler,test
+qué sabes de compiladores,trivia.compiler,test
+hablemos de galicia,trivia.galicia,test
+dónde se come bien en españa,trivia.galicia,test
+lugar gastronómico de españa,trivia.galicia,test
+dónde puedo encontrar galicia,trivia.galicia,test
+galicia y gastronomía,trivia.galicia,test
+cómo hace la coerción javascript,trivia.coercion,test
+cómo hace javascript coerciones,trivia.coercion,test
+cómo compara un tipo javascript,trivia.coercion,test
+hablemos de coerción,trivia.coercion,test
+dime cómo funciona la coerción,trivia.coercion,test
+qué son los callbacks,trivia.callback,test
+debo usar callback?,trivia.callback,test
+callback en javascript,trivia.callback,test
+funciones en javascript,trivia.callback,test
+por qué necesito un callback,trivia.callback,test
+cómo funciona la recolección de basura,trivia.gc,test
+cómo javascript recoge la basura,trivia.gc,test
+scavenge versus mark y sweep,trivia.gc,test
+cuándo se activa el recolector de basuras,trivia.gc,test
+describe el proceso de recolección de basura,trivia.gc,test
+qué son las funciones flecha,trivia.arrow,test
+algo mejor que las funciones anónimas,trivia.arrow,test
+flechas en javascript,trivia.arrow,test
+entender la función flecha,trivia.arrow,test
+javascript tiene funciones flecha?,trivia.arrow,test
+el desarrollo económico está levantando los mercados,None,test
+cuál fue el nombre del primer presidente?,None,test
+yo prefiero beta max antes que vhs,None,test
+tengo que usar lentes de contacto,None,test
+estoy persiguiendo la dirección ip del atacante,None,test
+tengo un nuevo email de mi grupo de amantes de gatos,None,test
