@@ -1,12 +1,16 @@
 # TODO
 
-- [ ] Intro al NLP y tareas del pipeline
-- [ ] Representando palabras como vectores
-    - [ ] one hot
-    - [ ] td.idf
-    - [ ] vectores de palabras: word2vec, glove, fastText
-    - [ ] modelos de lenguaje contextuales
-    - [ ] ejercicios de similitud semántica
+- [x] Intro al NLP y tareas del pipeline
+- [x] Representando palabras como vectores
+    - [x] one hot
+    - [x] td.idf
+    - [x] vectores de palabras: word2vec, glove, fastText
+    - [x] modelos de lenguaje contextuales
+    - [ ] ejercicios para descargar y cargar vectores de palabras con fastText
+    - [ ] ejercicios de similitud semántica con spaCy y fastText
+    - [ ] crear repo con materiales
+    - [ ] crear directorio de Drive con materiales
+
 
 
 # Mensajes previos
