@@ -18,7 +18,9 @@ This repo contains my materials shared during the 1st edition of the [Streaming 
 
 - [fastText: Spanish vectors](https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.es.300.bin.gz)
 
-- [word2vec: Spanish Wikipedia](https://mega.nz/file/hEFHmYyB#hvna1a_BQMvXxWyoFGgrjB9ctS3A0N5OgXPMDqG7NJw)
+- [word2vec: Spanish
+  Wikipedia](https://mega.nz/file/hEFHmYyB#hvna1a_BQMvXxWyoFGgrjB9ctS3A0N5OgXPMDqG7NJw)
+  ([mirror](https://vitojph.keybase.pub/eswiki-300.tar.gz))
 
 
 ## Other Resources
