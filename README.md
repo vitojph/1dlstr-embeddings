@@ -29,6 +29,8 @@ This repo contains my materials shared during the 1st edition of the [Streaming 
 
 - [The NLP Pandect](https://github.com/ivan-bilan/The-NLP-Pandect) is one of the most comprehensive resources for all things NLP.
 
+- [Intuition & Use-Cases of Embeddings in NLP & beyond](https://www.youtube.com/watch?v=4-QoMdSqG_I), by Jay Alammar.
+
 
 ## Social Media
 
