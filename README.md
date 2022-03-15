@@ -5,11 +5,11 @@ This repo contains my materials shared during my participation in the [Streaming
 
 ## Notebooks
 
-- [Procesamiento del Lenguaje Natural](01-intro-nlp.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vitojph/1dlstr-embeddings/blob/main/01-intro-nlp.ipynb)
+- [Procesamiento del Lenguaje Natural](01-intro-nlp.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vitojph/dlstr-embeddings/blob/main/01-intro-nlp.ipynb)
 
-- [Vectores de Palabras y Modelos de Lenguaje](02-word-embeddings.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vitojph/1dlstr-embeddings/blob/main/02-word-embeddings.ipynb)
+- [Vectores de Palabras y Modelos de Lenguaje](02-word-embeddings.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vitojph/dlstr-embeddings/blob/main/02-word-embeddings.ipynb)
 
-- [Ejercicios de similitud semántica](ex1-semantic-similarity.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vitojph/1dlstr-embeddings/blob/main/ex1-semantic-similarity.ipynb)
+- [Ejercicios de similitud semántica](ex1-semantic-similarity.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vitojph/dlstr-embeddings/blob/main/ex1-semantic-similarity.ipynb)
 
 
 ## Download Models
