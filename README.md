@@ -1,6 +1,6 @@
 # README
 
-This repo contains my materials shared during the 1st edition of the [Streaming Course on Deep Learning](https://kschool.com/cursos/curso-deep-learning-streaming/) held at [KSchool](http://kschool.com), Spain.
+This repo contains my materials shared during my participation in the [Streaming Course on Deep Learning](https://kschool.com/cursos/curso-deep-learning-streaming/) held at [KSchool](http://kschool.com), Spain.
 
 
 ## Notebooks
