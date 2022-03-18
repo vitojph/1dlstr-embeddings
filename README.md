@@ -9,7 +9,9 @@ This repo contains my materials shared during my participation in the [Streaming
 
 - [Vectores de Palabras y Modelos de Lenguaje](02-word-embeddings.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vitojph/dlstr-embeddings/blob/main/02-word-embeddings.ipynb)
 
-- [Similitud semántica](ex1-semantic-similarity.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vitojph/dlstr-embeddings/blob/main/ex1-semantic-similarity.ipynb)
+- [Modelos de Lenguaje y Similitud Semántica](03-similarity-lang-models.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vitojph/dlstr-embeddings/blob/main/03-similarity-lang-models.ipynb)
+
+- [Ejercicio 1: Similitud Semántica](ex1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vitojph/dlstr-embeddings/blob/main/ex1.ipynb)
 
 
 ## Download Models
