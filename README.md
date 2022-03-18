@@ -1,15 +1,17 @@
 # README
 
-This repo contains my materials shared during the 1st edition of the [Streaming Course on Deep Learning](https://kschool.com/cursos/curso-deep-learning-streaming/) held at [KSchool](http://kschool.com), Spain.
+This repo contains my materials shared during my participation in the [Streaming Course on Deep Learning](https://kschool.com/cursos/curso-deep-learning-streaming/) held at [KSchool](http://kschool.com), Spain.
 
 
 ## Notebooks
 
-- [Procesamiento del Lenguaje Natural](01-intro-nlp.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vitojph/1dlstr-embeddings/blob/main/01-intro-nlp.ipynb)
+- [Introducción al Procesamiento del Lenguaje Natural](01-intro-nlp.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vitojph/dlstr-embeddings/blob/main/01-intro-nlp.ipynb)
 
-- [Vectores de Palabras y Modelos de Lenguaje](02-word-embeddings.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vitojph/1dlstr-embeddings/blob/main/02-word-embeddings.ipynb)
+- [Vectores de Palabras y Modelos de Lenguaje](02-word-embeddings.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vitojph/dlstr-embeddings/blob/main/02-word-embeddings.ipynb)
 
-- [Ejercicios de similitud semántica](ex1-semantic-similarity.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vitojph/1dlstr-embeddings/blob/main/ex1-semantic-similarity.ipynb)
+- [Modelos de Lenguaje y Similitud Semántica](03-similarity-lang-models.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vitojph/dlstr-embeddings/blob/main/03-similarity-lang-models.ipynb)
+
+- [Ejercicio 1: Similitud Semántica](ex1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vitojph/dlstr-embeddings/blob/main/ex1.ipynb)
 
 
 ## Download Models
@@ -50,4 +52,3 @@ This repo contains my materials shared during the 1st edition of the [Streaming 
 - [NLP Newsletter](http://elvissaravia.com/subscribe/)
 
 - [NLP News](http://newsletter.ruder.io/)
-
